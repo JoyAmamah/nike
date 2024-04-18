@@ -9,11 +9,11 @@ const products = [
         colors: [
             {
                 code: "black",
-                img: "./image2.png",
+                img: "./assets./image2.png",
             },
             {
                 code: "darkblue",
-                img: "./image2.png",
+                img: "./assets./image2.png",
             },
         ],
     },
@@ -24,11 +24,11 @@ const products = [
         colors: [
             {
                 code: "lightgreen",
-                img: "./image3.png",
+                img: "./assets/image3.png",
             },
             {
                 code: "darkblue",
-                img: "./image3.png",
+                img: "./assets./image3.png",
             },
         ],
     }, 
@@ -39,11 +39,11 @@ const products = [
         colors: [
             {
                 code: "lightgray",
-                img: "./image4.png",
+                img: "./assets./image4.png",
             },
             {
                 code: "red",
-                img: "./image4.png",
+                img: "./assets./image4.png",
             },
         ],
     },
@@ -54,11 +54,11 @@ const products = [
         colors: [
             {
                 code: "red",
-                img: "./image6.png",
+                img: "./assets./image6.png",
             },
             {
                 code: "black",
-                img: "./image6.png",
+                img: "./assets./image6.png",
             },
         ],
     },
@@ -69,11 +69,11 @@ const products = [
         colors: [
             {
                 code: "black",
-                img: "./image5.png",
+                img: "./assets./image5.png",
             },
             {
                 code: "blue",
-                img: "./image5.png",
+                img: "./assets./image5.png",
             },
         ],
     },
